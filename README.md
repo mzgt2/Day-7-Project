@@ -13,7 +13,7 @@ Built as a learning project to practice Python loops, conditionals, lists, and m
 
 Run the game:
 ```bash
-python main.py
+python hangman_practice.py
 ```
 
 **Gameplay:**

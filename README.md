@@ -1,4 +1,4 @@
-# Day-7-Project
+# Project 7
 ## Hangman Game
 
 A command-line implementation of the classic word-guessing game Hangman, built with Python.
